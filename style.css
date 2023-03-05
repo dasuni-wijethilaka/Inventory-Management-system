@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+}
+
+.login_con {
+    position: absolute;
+    left:60%;
+    top: 40%;
+    width: 30%;
+    height: 50%;
+}
+
+.logo {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 25%;
+}
+
+.back {
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+
+.namecon{
+    position: absolute;
+    z-index: 10;
+    top: 20%;
+    left: 60%;
+}
+
+.name{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.slog{
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+
+.a:hover{
+    color: orangered;
+}
